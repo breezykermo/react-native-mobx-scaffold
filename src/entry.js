@@ -8,5 +8,5 @@ import React, {
 
 export default function init() {
   const pastaJar = () => <App store={store} />;
-  AppRegistry.registerComponent('pastaJar', () => pastaJar);
+  AppRegistry.registerComponent('pastajar', () => pastaJar);
 }
